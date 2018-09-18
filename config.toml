@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Computation Photography _SJS"
+theme = "hugo-natrium-theme"
