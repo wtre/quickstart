@@ -5,3 +5,7 @@
 [submodule "themes/hugo-natrium-theme"]
 	path = themes/hugo-natrium-theme
 	url = https://github.com/mobybit/hugo-natrium-theme
+
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even.git
