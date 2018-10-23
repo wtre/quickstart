@@ -1,7 +1,7 @@
 ---
 title: "Homework Assignment 3"
 date: 2018-10-23T17:48:58+09:00
-draft: true
+draft: false
 tags: ["Computational Photograpy"]
 ---
 
